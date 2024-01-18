@@ -1,0 +1,36 @@
+fff
+
+
+15:01:32.214 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:32.226 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:32.228 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:32.229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:32.231 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:32.231 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:32.232 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:01:32.237 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:01:32.263 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\arjav\AppData\Local\Temp\testng-eclipse--1729670893\testng-customsuite.xml
+
+15:01:32.312 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+15:01:32.555 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@255990cc: 45 ms
+15:01:32.666 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@e362c57: 111 ms
+15:01:32.684 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1a1d3c1a: 18 ms
+15:01:32.699 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@46292372: 15 ms
+15:01:32.712 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5987e932: 13 ms
+15:01:32.727 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@450794b4: 15 ms
+15:01:32.727 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@273c947f: 0 ms
+15:02:23.058 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartProject\mastersuite.xml"
+15:02:23.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Selenium_Workspace\OpenCartProject\mastersuite.xml
+
+15:02:32.568 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+15:02:32.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:02:32.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:02:33.357 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:02:33.357 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+15:02:36.491 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+15:02:36.533 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+15:02:36.535 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+15:02:36.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+15:03:44.611 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartProject\mastersuite.xml"
