@@ -6,8 +6,8 @@
 	<artifactId>opencart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<build>
-		<pluginManagement>
+	<!--<build>
+		 <pluginManagement>
 
 			<plugins>
 				<plugin>
@@ -23,17 +23,15 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>mastersuite.xml</suiteXmlFile>
-							<!-- <suiteXmlFile>xyz.xml</suiteXmlFile>-->
+							<suiteXmlFile>xyz.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
 
 			</plugins>
 
-		</pluginManagement>
-
-
-	</build>
+		</pluginManagement>  
+	</build>-->
 
 
 	<dependencies>

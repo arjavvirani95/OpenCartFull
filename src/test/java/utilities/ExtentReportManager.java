@@ -130,7 +130,7 @@ public class ExtentReportManager implements ITestListener {
 	
 	
 	//User defined method for sending email..
-	public void sendEmail(String senderEmail,String senderPassword,String recipientEmail)
+	public void sendEmail(final String senderEmail,final String senderPassword,String recipientEmail)
 	{
 		// SMTP server properties
         Properties properties = new Properties();
