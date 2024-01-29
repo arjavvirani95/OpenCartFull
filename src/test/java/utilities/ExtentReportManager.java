@@ -37,9 +37,9 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 import testBase.BaseClass;
 
 public class ExtentReportManager implements ITestListener {
-	public ExtentSparkReporter sparkReporter;
-	public ExtentReports extent;
-	public ExtentTest test;
+	public ExtentSparkReporter sparkReporter; // for UI generation
+	public ExtentReports extent; // Test Method Status
+	public ExtentTest test; // Detailed info in the reports
 
 	String repName;
 
