@@ -80,9 +80,9 @@ public class ExtentReportManager implements ITestListener {
 
 	public void onTestSuccess(ITestResult result) {
 	
-		test = extent.createTest(result.getTestClass().getName());
+		test = extent.createTest(result.getTestClass().getName()); // return testcase name
 		test.assignCategory(result.getMethod().getGroups()); // to display groups in report
-		test.log(Status.PASS,result.getName()+" got successfully executed");
+		test.log(Status.PASS,result.getName()+" got successfully executed"); // it will log into extent report
 		
 	}
 

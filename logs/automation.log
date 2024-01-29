@@ -37,3 +37,13 @@ fff
 12:18:36.847 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
 13:09:50.699 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
 13:12:11.094 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+14:42:37.835 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+14:42:47.497 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+14:42:47.497 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+14:42:47.635 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:42:48.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+14:42:48.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+14:42:51.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+14:42:51.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+14:42:51.512 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+14:42:51.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
