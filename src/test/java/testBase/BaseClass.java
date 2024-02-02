@@ -44,12 +44,9 @@ public class BaseClass {
 		p=new Properties();
 		p.load(file);
 
-
 		//loading log4j 
 		logger=LogManager.getLogger(this.getClass());//Log4j
-
-
-
+		
 		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
 		{	
 
