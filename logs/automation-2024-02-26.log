@@ -1,0 +1,51 @@
+11:05:16.719 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+11:05:17.805 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+11:05:17.806 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:05:21.693 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+11:05:21.751 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:05:21.756 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+11:05:21.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+15:37:33.309 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+15:37:44.845 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+15:37:44.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:37:45.147 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:37:45.794 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:37:45.794 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+15:37:48.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+15:37:48.988 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+15:37:48.990 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+15:37:48.991 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+15:44:48.199 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+15:44:53.966 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:44:53.967 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+15:44:54.327 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:44:54.711 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:44:54.714 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+15:44:55.269 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+15:44:55.321 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:47:16.705 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+15:47:23.623 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+15:47:23.623 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:47:24.015 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:47:24.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:47:24.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+15:47:27.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+15:47:27.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+15:47:27.573 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+15:47:27.573 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+15:47:32.957 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:47:32.957 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+15:47:33.306 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:47:33.647 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:47:33.649 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+15:47:34.227 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+15:47:34.288 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:50:24.328 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+15:50:30.271 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:50:30.271 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+15:50:30.648 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:50:31.002 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+15:50:31.003 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+15:50:31.542 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+15:50:31.590 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+15:50:37.095 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
