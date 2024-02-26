@@ -19,8 +19,7 @@ Data is invalid -- login failed - test pass
 
 public class TC_003_LoginDDT extends BaseClass
 {
-
-	@Test(dataProvider="LoginData",dataProviderClass=DataProviders.class)
+	@Test(groups= {"sanity"}, dataProvider="LoginData",dataProviderClass=DataProviders.class)
 	public void verify_loginDDT(String email, String password, String exp)
 	{
 		logger.info("**** Starting TC_003_LoginDDT *****");

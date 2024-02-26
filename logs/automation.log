@@ -1,7 +1,16 @@
-15:50:38.260 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
-15:53:19.648 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
-15:53:25.341 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
-15:53:27.533 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
-15:54:53.443 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
-15:56:24.678 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
-15:57:49.419 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+16:02:01.238 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:02:01.248 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:02:01.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:02:01.260 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:02:01.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:02:01.268 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:02:01.285 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:02:02.689 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:02:02.714 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:02:13.579 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:02:13.594 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:02:24.519 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:02:24.521 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:02:35.375 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:02:35.378 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:02:37.199 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
