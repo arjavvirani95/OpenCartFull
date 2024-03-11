@@ -25,3 +25,6 @@
 11:35:24.624 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
 11:35:24.624 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
 11:35:25.864 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+11:38:50.803 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Selenium_Workspace\OpenCartFull\mastersuite.xml"
+11:38:56.924 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+11:38:58.165 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
